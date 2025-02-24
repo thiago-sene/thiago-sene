@@ -1,8 +1,8 @@
 ## Olá pessoal, meu nome é Thiago! 👋
 
-Sou formado em **Análise e Desenvolvimento de Sistemas**, com experiência prática em empresas como **Prefeitura Municipal de Apucarana** e **Oneal Áudio**. Ao longo da minha trajetória, desenvolvi habilidades em **Análise de Dados**, **Banco de Dados** e **Análise de Sistemas de Software**, além de fornecer **Suporte Técnico** em diversos projetos. 
+Sou formado em **Análise e Desenvolvimento de Sistemas**, com experiência prática em empresas como **Prefeitura Municipal de Apucarana**. Ao longo da minha trajetória, desenvolvi habilidades em **Análise de Dados**, **Banco de Dados** e **Análise de Sistemas de Software**, além de fornecer **Suporte Técnico** em diversos projetos. 
 
-Tenho domínio de ferramentas como **Excel**, **Word**, **Sistemas de gestão de saúde pública** e **Power BI**, o que me permite otimizar processos, gerar insights estratégicos e gerenciar sistemas de forma eficiente. Busco sempre **soluções inovadoras**, focadas na **melhoria contínua** e no **atendimento às necessidades dos usuários**.
+Tenho domínio de ferramentas como **Excel**, **Sistemas de gestão de saúde pública** e **Power BI**, o que me permite otimizar processos, gerar insights estratégicos e gerenciar sistemas de forma eficiente. Busco sempre **soluções inovadoras**, focadas na **melhoria contínua** e no **atendimento às necessidades dos usuários**.
 
 Aqui estão algumas informações sobre mim:
 
