@@ -27,6 +27,9 @@ Aqui estão algumas informações sobre mim:
 <a href="https://github.com/thiago-sene">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-sene&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-sene&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+![Snake animation](https://raw.githubusercontent.com/thiago-sene/repository-name/main/dist/github-snake.svg)
+
 </div>
   
 ![Snake animation](https://github.com/thiago-sene/thiago-sene/blob/output/github-contribution-grid-snake.svg)
