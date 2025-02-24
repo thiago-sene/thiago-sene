@@ -15,6 +15,14 @@ Aqui estão algumas informações sobre mim:
 - ⚡ **Curiosidade**: Sou apaixonado por encontrar soluções criativas para desafios de dados e otimização de processos.
 
 
+## Aprendendo...
+<div>
+<img align="center" alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
+<img align="center" alt="git"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="center" alt="github"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+<img align="center" alt="Power-Bi" height="30" width="30" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png">
+<img align="center" alt="Excel"   height="30" width="30" src="https://www.kaptiva.ca/wp-content/uploads/2019/06/formation-excel.png">
+
 ## Contatos:
 
 <div>
