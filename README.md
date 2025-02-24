@@ -10,8 +10,8 @@ Aqui estão algumas informações sobre mim:
 - 🌱 **Atualmente estou aprendendo**: Melhoria de processos e implementação de soluções em <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="30" height="30"/>. 
 - 👯 **Estou procurando colaborar em**: Projetos de análise de dados e desenvolvimento de soluções para otimização de processos empresariais.
 - 🤔 **Estou procurando ajuda com**: Inovações em análise de dados e integração de novas ferramentas de gestão.
-- 💬 **Pergunte-me sobre**: Análise de dados, Power BI, Zabbix e otimização de processos.
-- 📫 **Como entrar em contato comigo**: Você pode me encontrar no LinkedIn ou me enviar um e-mail conforme a seção de contatos.
+- 💬 **Pergunte-me sobre**: Análise de dados, Power BI e otimização de processos.
+- 📫 **Como entrar em contato comigo**: Você pode me encontrar no Linkedin ou me enviar um e-mail conforme as informações ma seção de contatos.
 - ⚡ **Curiosidade**: Sou apaixonado por encontrar soluções criativas para desafios de dados e otimização de processos.
 
 
