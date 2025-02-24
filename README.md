@@ -7,7 +7,7 @@ Tenho domínio de ferramentas como **Excel**, **Sistemas de gestão de saúde p�
 Aqui estão algumas informações sobre mim:
 
 - 🔭 **Atualmente estou trabalhando em**: Projetos de análise de dados e otimização de sistemas.
-- 🌱 **Atualmente estou aprendendo**: Melhoria de processos e implementação de soluções em <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="30" height="30"/>. 
+- 🌱 **Atualmente estou aprendendo**: Melhoria de processos e implementação de soluções em Python. 
 - 👯 **Estou procurando colaborar em**: Projetos de análise de dados e desenvolvimento de soluções para otimização de processos empresariais.
 - 🤔 **Estou procurando ajuda com**: Inovações em análise de dados e integração de novas ferramentas de gestão.
 - 💬 **Pergunte-me sobre**: Análise de dados, Power BI e otimização de processos.
